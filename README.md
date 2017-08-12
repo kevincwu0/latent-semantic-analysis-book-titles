@@ -13,6 +13,8 @@ Polysemes:
 "Man" (Human oppose to animal, vs. male vs. female, or "hey, man", 
 "Milk" (verb, noun)
 
+![alt text](https://github.com/kevincwu0/latent-semantic-analysis-book-titles/blob/master/lsa_figure_1.png)
+
 Latent variables:
 combine words with similar meaning
 z = 0.7 * computer + 0.5 * PC + 0.6 * laptop 
